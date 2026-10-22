@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
