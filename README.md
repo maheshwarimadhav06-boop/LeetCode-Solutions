@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -61,4 +63,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/maheshwarimadhav06-boop/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
