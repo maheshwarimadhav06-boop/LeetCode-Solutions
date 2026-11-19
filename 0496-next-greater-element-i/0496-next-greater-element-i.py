@@ -5,17 +5,24 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-
         n = len(nums1)
         m = len(nums2)
-        result = []
+        stack = []
         for i in range(n):
             for j in range(m):
-                if (nums1[i] == nums2[j]):
-                    for k in range(j+1,m):
-                        if (nums2[j] < nums2[k]):
-                            result.append(nums2[k])
-                            break
+                if nums1[i] == nums2[j]:
+                    found = False
+                    if j == m-1:
+                        stack.append(-1)
                     else:
-                        result.append(-1)
-        return result
+                        for k in range(j+1,m):
+                            if nums2[k] > nums2[j]:
+                                stack.append(nums2[k])
+                                found = True
+                                break
+                        if not found:
+                            stack.append(-1)
+                    break
+        return stack
+        
+        
